@@ -1,0 +1,25 @@
+SLACK_ID=U01UMQF15R6
+
+{
+  "firstName": "Mike",
+  "lastName": "Jones",
+  "email": "mj@example.com",
+  "password": "TestPassword1!",
+  "passwordConfirm": "TestPassword1!",
+  "avatarUrl": "https://api.remotebootcamp.dev/apihelp/rbclogo.png",
+  "tenantId": "U01UMQF15R6"
+}
+
+Friends
+{
+  "title": "Fname Lname",
+  "bio": "I am bio",
+  "summary": "I am summary",
+  "headline": "I am headline",
+  "slug": "www.slug.com",
+  "statusId": "Active",
+  "primaryImage": "https://api.remotebootcamp.dev/apihelp/rbclogo.png"
+}
+
+
+
